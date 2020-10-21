@@ -1,13 +1,4 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Jogo da memória do Mário Bros
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+Desafio prático de criação Jogo da Memória do Super Mário, utilizando o tutorial disponível no portal da [Digital Innovation One](digitalinnovation.one), usando HTML, JS e CSS. Maneira simples para consolidar conhecimentos introdutórios destas ferramentas.
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
-
-
-## 🚀 Let's code! 🚀
